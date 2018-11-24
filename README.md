@@ -7,9 +7,9 @@ Xiaomi Flower Care, Mijia Sensor добавляем в Domoticz
 * `cd ble`
 * Запустите поиск устройств
 * `sudo hcitool lescan`
-* Нас интересует мак адрес  у вас булет другой!
-* C4:7C:8D:62:0E:F4 Flower care = Xiaomi Flower Care
-* 4C:65:A8:D0:45:D0 MJ_HT_V1 = Mijia Sensor
+* Нас интересует мак адрес у вас будет другой, к примеру:
+* C4:7C:8D:62:0E:F4 Flower care =  это Xiaomi Flower Care
+* 4C:65:A8:D0:45:D0 MJ_HT_V1 = это Mijia Sensor
 ==========================================================
 * Добавим свой Xiaomi Flower Care, вводим в консоли
 `sudo nano miflora.py`
