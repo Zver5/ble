@@ -32,5 +32,5 @@ Xiaomi Flower Care, Mijia Sensor, Bluetooth добавляем в Domoticz
 * переходим в папку 
  `cd ~/domoticz/scripts/python`
 * Даем права файлам на выполнение
-`sudo chmod +x miflora.py`
-`sudo chmod +x domoticz_mijia.py`
+* `sudo chmod +x miflora.py`
+* `sudo chmod +x domoticz_mijia.py`
