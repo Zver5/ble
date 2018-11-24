@@ -1,4 +1,4 @@
-Xiaomi Flower Care, Mijia Sensor, Bluetooth добавляем в Domoticz
+Xiaomi Flower Care, Mijia Sensor добавляем в Domoticz
 =========================================================
 * Создайте в Domoticz два виртуальных переключателя с именами Mijia и Орхидея запомните их IDX
 * Скачайте 
