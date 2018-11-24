@@ -40,5 +40,5 @@ Xiaomi Flower Care, Mijia Sensor добавляем в Domoticz
 * `sudo chmod +x miflora.py`
 * `sudo chmod +x domoticz_mijia.py`
 * добавьте в crontab
-`*/30 * * * * /usr/bin/python3 /home/pi/domoticz/scripts/python/mijia-sensor-domoticz/domoticz_mijia.py >/dev/null 2>&1`
-`*/30 * * * * /usr/bin/python3 /home/pi/domoticz/scripts/python/miflora.py >/dev/null 2>&1`
+* `*/30 * * * * /usr/bin/python3 /home/pi/domoticz/scripts/python/mijia-sensor-domoticz/domoticz_mijia.py >/dev/null 2>&1`
+* `*/30 * * * * /usr/bin/python3 /home/pi/domoticz/scripts/python/miflora.py >/dev/null 2>&1`
