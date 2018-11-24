@@ -17,10 +17,10 @@ Xiaomi Flower Care, Mijia Sensor, Bluetooth добавляем в Domoticz
 `python3 miflora.py`
  если вы получили показания значит все сделали правильно
  * перемещаем файлы для дальнейшей работы 
-`cd ~/ble`
-`cp -r ble ~/domoticz/scripts/python/`
-`cp miflora.py ~/domoticz/scripts/python/miflora.py`
-`cp domoticz_mijia.py ~/domoticz/scripts/python/domoticz_mijia.py`
+*`cd ~/ble`
+*`cp -r ble ~/domoticz/scripts/python/`
+*`cp miflora.py ~/domoticz/scripts/python/miflora.py`
+*`cp domoticz_mijia.py ~/domoticz/scripts/python/domoticz_mijia.py`
  переходим в папку 
  `cd ~/domoticz/scripts/python`
 * Даем права файлу на выполнение
